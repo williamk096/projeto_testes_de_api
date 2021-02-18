@@ -12,7 +12,8 @@ import br.ce.william.rest.refatoracao.ContasTest;
 import br.ce.william.rest.refatoracao.MovimentacaoTest;
 import io.restassured.RestAssured;
 
-//suites das classes de teste
+//suites das classes de testes
+//os testes vao rodar na sequencia especificadaaaaaaaaa
 
 @RunWith(org.junit.runners.Suite.class)
 @SuiteClasses({
