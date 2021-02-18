@@ -12,6 +12,8 @@ import br.ce.william.rest.refatoracao.ContasTest;
 import br.ce.william.rest.refatoracao.MovimentacaoTest;
 import io.restassured.RestAssured;
 
+//suites das classes de teste
+
 @RunWith(org.junit.runners.Suite.class)
 @SuiteClasses({
 	ContasTest.class,
